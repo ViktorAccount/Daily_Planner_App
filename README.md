@@ -1,11 +1,6 @@
 
 App-Description (Daily Planner) 
 ------------------------------
-Ambition: BETYG 3 (jag har lagt till forms)
-De krav jag försöker upffylla, dark mode, font size, språk, sökfunktion, firebase login, provider, självtilräckligt widget, widget test, unit test, forms , Kontohantering
-
-De krav jag eventuelt uppfyler
-modulär kod, använding av Firestore
 
 Purpose: 
 The purpose of the Daily Planner app is to write down your goals of the day or week. For every goal you complete you get a point and for every goal you miss you get a minus point. Depending on the amount of points you get you can achieve certain achievements. 
