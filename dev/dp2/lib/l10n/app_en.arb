@@ -1,0 +1,25 @@
+{
+  "@@locale": "en",
+  "appTitle": "Daily Planner",
+  "welcomeMessage": "Welcome, {name}!",
+  "addGoal": "Add Goal",
+  "viewGoals": "View Goals",
+  "settingsTitle" : "Settings",
+  "goalTitle" : "Goals",
+  "enterGoal" : "Enter your goal",
+  "darkMode" : "Dark mode",
+  "fontSize" : "Font Size",
+  "activeGoals" : "Active Goals",
+  "completedGoals" : "Completed Goals",
+  "searchGoal" : "Search Active Goals",
+  "language" : "Language",
+  "logout" : "Logout",
+  "routine" : "Week Routine",
+  "summary" : "Summary",
+  "home" : "Homepage",
+  "routineGoals" : "Rutine Goals", 
+  "summary" : "Summary & Statistics",
+  "goalSummary" : "Goal Summary",
+  "totalGoals" : "Total Goals"
+
+}
